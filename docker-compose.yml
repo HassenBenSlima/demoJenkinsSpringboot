@@ -5,7 +5,7 @@ version: '3.3'
 services:
   # spring service
   spring:
-    image: spring_app_july2023_amine_mezghich
+    image: spring_app_july2023_hassen_benslima
     ports:
       - "8010:8001" 
     container_name: spring_cont
